@@ -13,3 +13,9 @@ A hardware-software integration project using the **8051 Microcontroller** to cr
 * **Timekeeping:** Managed via hardware timers and Interrupt Service Routines (ISRs) for high precision.
 * **Alarm System:** User-defined alarm thresholds with a dedicated "Snooze" interrupt and flashing LED alert.
 * **Piano Mode:** Frequency-mapping system converting button inputs into musical notes via variable PWM frequencies.
+
+Here is a picture of the hardware: 
+
+
+<img src="https://github.com/user-attachments/assets/cb769a07-f0dc-41a7-be82-8aa77f9921fe" 
+     width="600">
