@@ -16,6 +16,7 @@ A hardware-software integration project using the **8051 Microcontroller** to cr
 
 Here is a picture of the hardware: 
 
-
+<p align= "center">
 <img src="https://github.com/user-attachments/assets/cb769a07-f0dc-41a7-be82-8aa77f9921fe" 
      width="600">
+</p>p>
